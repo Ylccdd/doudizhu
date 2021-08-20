@@ -1,0 +1,4 @@
+[submodule "mirai-cpp"]
+	path = mirai-cpp
+	url = https://gitee.com/qb435/mirai-cpp.git
+
